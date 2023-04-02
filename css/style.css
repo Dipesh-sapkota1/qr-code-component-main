@@ -15,7 +15,6 @@ img{
 body{
     font-family: 'Outfit', sans-serif;
     line-height: 1.2;
-    min-height: 100vh;
     display: grid;
     place-content: center;
     margin: 2rem;
@@ -33,7 +32,7 @@ body{
     padding: 0.5rem;
     border-radius: 15px;
     max-width: 330px;
-    box-shadow: 1px 1px 5px rgb(0, 0, 0,0.4);
+    box-shadow: 1px 1px 5px rgb(0, 0, 0,0.2);
 }
 .site_link img{
     border-radius: 15px;
